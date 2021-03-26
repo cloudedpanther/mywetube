@@ -1,10 +1,10 @@
-export const dbVideos = [
+export const videos = [
     {
         id:3249819,
         title: "Video Awesome",
         description: "This is what you wanted to see",
         views: 307,
-        videoFile: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:707,
             name: "rickey",
@@ -15,8 +15,8 @@ export const dbVideos = [
         id:8542441,
         title: "Video Shumowzow",
         description: "This is what you wanted to see",
-        views: 307,
-        videoFile: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+        views: 6435,
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:707,
             name: "rickey",
@@ -27,8 +27,8 @@ export const dbVideos = [
         id:7351649,
         title: "Video Best",
         description: "This is what you wanted to see",
-        views: 307,
-        videoFile: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+        views: 421,
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:707,
             name: "rickey",
@@ -39,8 +39,8 @@ export const dbVideos = [
         id:6209273,
         title: "Video Great",
         description: "This is what you wanted to see",
-        views: 307,
-        videoFile: "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm",
+        views: 233,
+        videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator: {
             id:707,
             name: "rickey",
